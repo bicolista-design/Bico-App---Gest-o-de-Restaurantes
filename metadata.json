@@ -1,0 +1,8 @@
+{
+  "name": "Bico App - Gestão de Restaurante",
+  "description": "Um aplicativo abrangente de gestão de garçons e restaurantes com controle de mesas, pedidos de cozinha, catálogo de produtos, permissões de usuário e relatórios de fluxo de caixa.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
